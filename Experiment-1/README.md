@@ -242,32 +242,6 @@ Displays the contents of the current directory.
 
 ---
 
-## 📸 Practical Screenshots
-
-The following screenshots can be added to document the actual implementation.
-
-### Screenshot 01 – VirtualBox Installation
-
-*Evidence of Oracle VirtualBox installation.*
-
-### Screenshot 02 – VirtualBox Manager
-
-*Main interface of Oracle VirtualBox.*
-
-### Screenshot 03 – Virtual Machine Configuration
-
-*Configuration of Ubuntu virtual machine.*
-
-### Screenshot 04 – Ubuntu Installation
-
-*Ubuntu operating system installation process.*
-
-### Screenshot 05 – Ubuntu Desktop Environment
-
-*Successfully running Ubuntu Linux inside VirtualBox.*
-
----
-
 ## 📚 Learning Outcomes
 
 By completing this experiment, the following practical skills are developed:
