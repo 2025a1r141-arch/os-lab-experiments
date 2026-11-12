@@ -1,1 +1,54 @@
+EXPERIMENT 1
+INSTALLATION AND CONFIGURATION OF ORACLE VIRTUALBOX AND UBUNTU LINUX
 
+==================================================
+
+1. OBJECTIVE
+
+To install Oracle VirtualBox, create and configure a virtual machine, and deploy the Ubuntu Linux operating system in a virtualized environment.
+
+2. SOFTWARE REQUIREMENTS
+
+- Oracle VirtualBox
+- Ubuntu Linux ISO Image
+- Windows Operating System
+- Minimum 4 GB RAM
+- Sufficient Free Disk Space
+
+3. INTRODUCTION
+
+Oracle VirtualBox is a free and open-source virtualization software that allows users to run multiple operating systems on a single physical computer.
+
+Ubuntu Linux is an open-source operating system based on Linux. It provides a user-friendly interface and is widely used for programming, development, and system administration.
+
+4. PROCEDURE
+
+Step 1: Download Oracle VirtualBox from its official website.
+
+Step 2: Install VirtualBox by following the installation instructions.
+
+Step 3: Download the Ubuntu Linux ISO image from the official Ubuntu website.
+
+Step 4: Open Oracle VirtualBox and click on the New button.
+
+Step 5: Enter the virtual machine name as Ubuntu Linux.
+
+Step 6: Select the operating system type as Linux and the appropriate Ubuntu version.
+
+Step 7: Allocate memory (RAM) and create a virtual hard disk.
+
+Step 8: Attach the downloaded Ubuntu ISO image to the virtual machine.
+
+Step 9: Start the virtual machine and follow the Ubuntu installation instructions.
+
+Step 10: Complete the installation and restart the virtual machine.
+
+Step 11: Log in to Ubuntu Linux and verify that the operating system is working correctly.
+
+5. RESULT
+
+Oracle VirtualBox was successfully installed and configured. A virtual machine was created, and Ubuntu Linux was deployed in the virtualized environment.
+
+6. CONCLUSION
+
+This experiment provided practical knowledge of virtualization technology and the installation of Ubuntu Linux using Oracle VirtualBox. It helped in understanding how multiple operating systems can run on a single physical computer.
